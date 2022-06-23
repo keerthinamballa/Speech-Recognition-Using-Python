@@ -1,4 +1,4 @@
-"""Importing requests module"""
+"""Importing required module"""
 import sys
 import requests
 import time 
